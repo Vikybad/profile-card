@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './components/Card';
-
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 function App() {
@@ -16,18 +16,21 @@ function App() {
   const profileImageSrc = '/images/profile-pic.png'
 
   return (
-    <div className="container">
-      <Card
-        name="Vikram Badesara"
-        position="Software Developer"
-        aboutMe={aboutMe}
-        linkedIn={linkedIn}
-        profilePage={profilePage}
-        github={github}
-        resumeLink={resumeLink}
-        profileImage={profileImageSrc}
-      />
-    </div>
+    <>
+      <SpeedInsights />
+      <div className="container">
+        <Card
+          name="Vikram Badesara"
+          position="Software Developer"
+          aboutMe={aboutMe}
+          linkedIn={linkedIn}
+          profilePage={profilePage}
+          github={github}
+          resumeLink={resumeLink}
+          profileImage={profileImageSrc}
+        />
+      </div>
+    </>
   )
 }
 
