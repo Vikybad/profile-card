@@ -1,0 +1,29 @@
+{
+  "name": "profile_card",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "npm-scripts": "^1.4.0",
+    "path": "^0.12.7",
+    "react-router": "^6.25.1",
+    "react-router-dom": "^6.25.1",
+    "react-scripts": "5.0.0",
+    "serve": "^14.0.1"
+  },
+  "scripts": {
+    "build": "CI=false react-scripts build",
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
