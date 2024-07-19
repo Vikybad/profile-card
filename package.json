@@ -9,11 +9,11 @@
     "react-dom": "^18.3.1",
     "react-router": "^6.25.1",
     "react-router-dom": "^6.25.1",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "^5.0.1",
     "serve": "^14.0.1"
   },
   "scripts": {
-    "build": "CI=false react-scripts build",
+    "build": "CI=true react-scripts build",
     "start": "react-scripts start"
   },
   "browserslist": {
