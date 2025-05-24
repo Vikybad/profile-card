@@ -12,7 +12,7 @@ function App() {
   const linkedIn = "https://www.linkedin.com/in/vikrambadesara/"
   const profilePage = "https://main--vikrambadesara-softwaredeveloper.netlify.app/"
   const github = "https://github.com/vikyBad"
-  const resumeLink = "/files/Vikram-NodeJs_Developer.pdf"
+  const resumeLink = "/files/Vikram_Resume.pdf"
   const profileImageSrc = '/images/profile-pic.png'
 
   return (
