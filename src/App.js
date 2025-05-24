@@ -10,7 +10,7 @@ function App() {
   efficient code and delivering high quality solutions..\n\nLet's collaborate TOGETHER!`
 
   const linkedIn = "https://www.linkedin.com/in/vikrambadesara/"
-  const profilePage = "https://main--vikrambadesara-softwaredeveloper.netlify.app/"
+  const profilePage = 'https://vikram-badesara.netlify.app/' // "https://main--vikrambadesara-softwaredeveloper.netlify.app/"
   const github = "https://github.com/vikyBad"
   const resumeLink = "/files/Vikram_Resume.pdf"
   const profileImageSrc = '/images/profile-pic.png'
