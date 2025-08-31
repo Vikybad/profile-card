@@ -5,7 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
 
-  const aboutMe = `Hi there! I'm Vikram, Skilled Software Developer with 2 years of experience. Proficient in Node.js, Express, Google Apps Script and various other
+  const aboutMe = `Hi there! I'm Vikram, Skilled Software Developer with 3 years of experience. Proficient in Node.js, Express, Google Apps Script and various other
   technologies. Proven track record of successful feature development, bug fixes, and product enhancements to drive stability and improvements. Committed to writing clean,
   efficient code and delivering high quality solutions..\n\nLet's collaborate TOGETHER!`
 
